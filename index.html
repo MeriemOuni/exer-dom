@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Ws DOM</title>
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+			integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+			crossorigin="anonymous"
+		/>
+		<link rel="stylesheet" href="./style.css" />
+	</head>
+	<body>
+		<header>
+			<!-- Navbar -->
+			<div class="container">
+				<nav class="navbar navbar-expand-lg bg-light">
+					<div class="container-fluid">
+						<a class="navbar-brand" href="#">Panier</a>
+					</div>
+				</nav>
+			</div>
+		</header>
+		<main>
+			<!-- CARDS -->
+			<!-- 1 -->
+			<div class="wrapper">
+				<div class="product-img">
+					<img src="http://bit.ly/2tMBBTd" height="420" width="327" />
+				</div>
+				<div class="product-info">
+					<div class="product-text">
+						<h1>Harvest Vase</h1>
+						<h2>by studio and friends</h2>
+						<p>
+							Harvest Vases are a reinterpretation<br />
+							of peeled fruits and vegetables as<br />
+							functional objects. The surfaces<br />
+							appear to be sliced and pulled aside,<br />
+							allowing room for growth.
+						</p>
+					</div>
+					<div class="product-price-btn">
+						<p><span>78</span>$</p>
+						<button type="button">buy now</button>
+					</div>
+				</div>
+			</div>
+			<!-- 2 -->
+			<div class="wrapper">
+				<div class="product-img">
+					<img src="http://bit.ly/2tMBBTd" height="420" width="327" />
+				</div>
+				<div class="product-info">
+					<div class="product-text">
+						<h1>Harvest Vase</h1>
+						<h2>by studio and friends</h2>
+						<p>
+							Harvest Vases are a reinterpretation<br />
+							of peeled fruits and vegetables as<br />
+							functional objects. The surfaces<br />
+							appear to be sliced and pulled aside,<br />
+							allowing room for growth.
+						</p>
+					</div>
+					<div class="product-price-btn">
+						<p><span>78</span>$</p>
+						<button type="button">buy now</button>
+					</div>
+				</div>
+			</div>
+			<!-- 3 -->
+			<div class="wrapper">
+				<div class="product-img">
+					<img src="http://bit.ly/2tMBBTd" height="420" width="327" />
+				</div>
+				<div class="product-info">
+					<div class="product-text">
+						<h1>Harvest Vase</h1>
+						<h2>by studio and friends</h2>
+						<p>
+							Harvest Vases are a reinterpretation<br />
+							of peeled fruits and vegetables as<br />
+							functional objects. The surfaces<br />
+							appear to be sliced and pulled aside,<br />
+							allowing room for growth.
+						</p>
+					</div>
+					<div class="product-price-btn">
+						<p><span>78</span>$</p>
+						<button type="button">buy now</button>
+					</div>
+				</div>
+			</div>
+			<!-- Total Price -->
+			<div>
+				<span>Total Price : </span>
+			</div>
+		</main>
+		<footer></footer>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+			integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+			integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>
